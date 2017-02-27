@@ -6,35 +6,21 @@
     ignore_errors: yes
     with_items:
       - adium
-      - adobe-creative-cloud
+      - adobe-photoshop-cs6
       - alfred
-      - cleanapp
-      - controlplane
+      - cyberduck
       - dropbox
       - firefox
-      - firefoxdeveloperedition
-      - flux
       - google-chrome
-      - google-chrome-canary
       - google-featured-photos
       - hipchat
       - iterm2
-      - istat-menus
-      - karabiner-elements
-      - kobo
-      - logitech-options
       - logitech-control-center
-      - macdown
+      - microsoft-office-2011
       - opera
-      - opera-developer
-      - sequel-pro
-      - slack
       - spotify
       - sublime-text
-      - tomtom-mysports-connect
-      - torbrowser
-      - transmit
       - vagrant
       - vlc
       - virtualbox
-      - whatsapp
+      - webstorm

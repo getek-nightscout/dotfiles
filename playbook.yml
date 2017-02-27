@@ -11,5 +11,5 @@
   roles:
     - installation
     - bash
-    - mas
+    # - mas
     - configuration
